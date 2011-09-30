@@ -7,19 +7,8 @@ How to login to your Linux Virtual-Machine via VNCviewer (a graphical interface 
 
 2. Run the VNCviewer (it is one executable file)
 
-3. Type in the "server" your Linux-VM-ip and don't forget to specify port number 5901. 
-   For example if you are student02 then type 9.151.161.234:5901
-   On VNC authentication just type the the word password.
-   On the VM the user\password is xiv\password.
+3. Type in the "server" your Linux-VM-ip and don't forget to specify port number 5901.  
+   For example Your-Linux-VM-ip:5901
+   On "VNC authentication" screen the password is password
+   Your VM user\password is xiv\password.
 
-4. Here is your VM-ips for the course
-	9.151.161.75	student01
-	9.151.161.234	student02
-	9.151.161.33	student03		
-	9.151.161.181	student04
-	9.151.161.54	student05
-	9.151.162.236	student06 
-	9.151.162.109	student07
-	9.151.162.240	student08
-	9.151.162.16	student09
-	9.151.161.108	student10
