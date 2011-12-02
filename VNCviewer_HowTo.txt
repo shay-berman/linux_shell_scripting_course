@@ -1,0 +1,14 @@
+--------------------------------------------------------
+How to login to your Linux Virtual-Machine via VNCviewer (a graphical interface for the Linux).
+--------------------------------------------------------
+
+1. Run the VNCviewer program,it is one executable file vnc-4_1_3-x86_win32_viewer.exe.
+
+   NOTE : Download VNCviewer from http://www.realvnc.com/cgi-bin/download.cgi?product=free4/vncviewer/win
+          *** Do not fill any details just press "Proceed to Downloads".
+
+2. Type in the "server" your Linux-VM-name and don't forget to specify port number 5901 or 5902.
+   For example Your-Linux-VM:5901
+   You will be asked to put "VNC authentication".
+   Then you will see your VM desktop (user\password).
+
